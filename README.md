@@ -4,7 +4,7 @@ To play this game you use the WASD keys to move the player. To jump you press th
 
 I chose to write this software to learn the Unity game engine. I enjoy playing and making games and I thought it would be a super fun hobby with some friends to make video games.
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Video Showcase](https://youtu.be/L8MUA2pNDY8)
 
 # Development Environment
 Unity Game Engine 
